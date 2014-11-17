@@ -1,5 +1,7 @@
 <?php
 
-echo "hello world!";
+echo "hello world!\n";
+
+echo "upudate!"
 
 exit;
