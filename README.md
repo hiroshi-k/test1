@@ -1,4 +1,4 @@
-test1
+This is Test Repository
 =====
 
-this is test
+this is test and this is public.
